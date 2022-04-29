@@ -1,7 +1,7 @@
 {
   "name": "ejercicio3",
   "version": "1.0.0",
-  "description": "similar a code.org",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
